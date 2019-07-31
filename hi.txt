@@ -1,3 +1,6 @@
-print ("hi vodka!"); 
+
+print ("hi vodka!");
 print ("hello world");
-print("hello");
+print ("hello my dear friends");
+print ("glad to see you");
+
